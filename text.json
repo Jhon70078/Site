@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nome": "Produto 1",
+    "preco": 99.9,
+    "imagem": "https://via.placeholder.com/200",
+    "descricao": "Produto incrível"
+  },
+  {
+    "id": 2,
+    "nome": "Produto 2",
+    "preco": 149.9,
+    "imagem": "https://via.placeholder.com/200",
+    "descricao": "Outro produto legal"
+  }
+]
